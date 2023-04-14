@@ -1,2 +1,9 @@
-[InternetShortcut]
-URL=https://learn.nucamp.co/pluginfile.php/88932/mod_book/chapter/5236/helloworld.py
+def hello_world():
+    print(f'Hello World!')
+
+
+def main():
+    hello_world()
+
+
+main()
